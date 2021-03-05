@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "title": "Welcome to the blog",
+      "body": "Alright then gang, I've finished uploading all the new course content (179 new lectures in total) which are meant to completely replace the old course content. It may take a few hours or so to be fully updated on the course page, before you see it.",
+      "id": 1,
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "title": "Top 5 CSS tips",
+      "body": "Like I said, the new content is meant to completely replace the old content. So if you're brand new to the course, you should probably start at the very beginning. If you're mid-way through the old content already, you can still carry on with it - I've kept it all up at the end of the course and marked it as. It will stay here for about 3 weeks before I remove it and put it on my YouTube channel.",
+      "id": 2,
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Build Web Apps with Vue JS 3 & Firebase",
+      "body": "Over the last couple of months I've been working on some big updates (a whole rewrite, in fact) for this course, which will contain the latest Vue 3 features (including a lot of hands-on practise with the composition API). It will also adopt the latest approach for setting up firebase with front-end applications (plus a new section on firebase storage for file uploads too).",
+      "tags": [
+        "css",
+        "html",
+        "javascript",
+        "front-end"
+      ],
+      "id": 3
+    }
+  ]
+}

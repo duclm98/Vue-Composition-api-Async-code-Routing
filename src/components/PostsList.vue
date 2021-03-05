@@ -7,7 +7,6 @@
 </template>
 
 <script>
-import { onMounted, onUnmounted, onUpdated } from 'vue';
 import SinglePost from './SinglePost';
 export default {
     name: 'PostsList',
@@ -16,15 +15,6 @@ export default {
     },
     props: ['posts'],
     setup(props) {
-        onMounted(() => {
-            console.log('Component monuted');
-        });
-        onUnmounted(() => {
-            console.log('Component unmounted');
-        });
-        onUpdated(() => {
-            console.log('Component updated');
-        })
     },
 }
 </script>
